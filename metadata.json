@@ -1,0 +1,6 @@
+{
+  "name": "NEM LANCHES",
+  "description": "Bio link gastronômica premium e mini CMS da NEM LANCHES em João Monlevade - MG",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

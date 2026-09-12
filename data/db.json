@@ -1,0 +1,146 @@
+{
+  "profile": {
+    "name": "NEM LANCHES",
+    "tagline": "Seu lanche, seu momento.",
+    "description": "Hambúrgueres e lanches preparados para deixar seu momento ainda mais saboroso.",
+    "logo_url": "/images/logo-nem.jpg",
+    "cta_text": "🍔 FAÇA SEU PEDIDO",
+    "cta_url": "https://wa.me/5531995176904",
+    "phone": "(31) 99517-6904",
+    "instagram_url": "https://www.instagram.com/nem_llanches/",
+    "address": "R. Marquês de Montalvão, 259 - Planalto, João Monlevade - MG, 35931-127"
+  },
+  "carousel_items": [
+    {
+      "id": "slide-1",
+      "image_url": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=1200&q=80",
+      "title": "Hambúrgueres Artesanais",
+      "category": "Sabor & Qualidade",
+      "description": "Lanches preparados na hora para você",
+      "alt_text": "Hambúrguer artesanal saboroso",
+      "active": true,
+      "position": 1
+    },
+    {
+      "id": "slide-2",
+      "image_url": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=1200&q=80",
+      "title": "Momentos Deliciosos",
+      "category": "Combos & Lanches",
+      "description": "Peça com praticidade pelo WhatsApp",
+      "alt_text": "Lanche apetitoso pronto para consumo",
+      "active": true,
+      "position": 2
+    },
+    {
+      "id": "slide-3",
+      "image_url": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?auto=format&fit=crop&w=1200&q=80",
+      "title": "Seu Lanche, Seu Momento",
+      "category": "NEM LANCHES",
+      "description": "Visite nossa loja no Planalto em João Monlevade",
+      "alt_text": "Preparação artesanal de hambúrguer",
+      "active": true,
+      "position": 3
+    }
+  ],
+  "products": [],
+  "bio_links": [
+    {
+      "id": "link-1",
+      "icon": "Utensils",
+      "title": "Confira nosso cardápio",
+      "description": "Veja as opções disponíveis e escolha seu próximo lanche.",
+      "url": "",
+      "type": "link",
+      "active": false,
+      "position": 1,
+      "openInNewTab": true
+    },
+    {
+      "id": "link-2",
+      "icon": "MessageCircle",
+      "title": "Peça pelo WhatsApp",
+      "description": "Fale com a NEM LANCHES e faça seu pedido.",
+      "url": "https://wa.me/5531995176904",
+      "type": "link",
+      "active": true,
+      "position": 2,
+      "openInNewTab": true
+    },
+    {
+      "id": "link-3",
+      "icon": "Instagram",
+      "title": "Siga a NEM LANCHES",
+      "description": "Acompanhe nossos lanches, novidades e conteúdos.",
+      "url": "https://www.instagram.com/nem_llanches/",
+      "type": "link",
+      "active": true,
+      "position": 3,
+      "openInNewTab": true
+    },
+    {
+      "id": "link-4",
+      "icon": "MapPin",
+      "title": "Como chegar",
+      "description": "Encontre a NEM LANCHES no bairro Planalto.",
+      "url": "https://www.google.com/maps/search/?api=1&query=R.+Marqu%C3%AAs+de+Montalv%C3%A3o%2C+259+-+Planalto%2C+Jo%C3%A3o+Monlevade+-+MG%2C+35931-127",
+      "type": "maps",
+      "active": true,
+      "position": 4,
+      "openInNewTab": true
+    },
+    {
+      "id": "link-5",
+      "icon": "Star",
+      "title": "Avalie nossa hamburgueria",
+      "description": "Sua opinião é muito importante para a NEM LANCHES.",
+      "url": "https://www.google.com/maps/search/?api=1&query=NEM+LANCHES+Joao+Monlevade",
+      "type": "link",
+      "active": true,
+      "position": 5,
+      "openInNewTab": true
+    },
+    {
+      "id": "link-6",
+      "icon": "Clock",
+      "title": "Horário de funcionamento",
+      "description": "Consulte nossos horários atualizados.",
+      "url": "#horarios",
+      "type": "hours_modal",
+      "active": true,
+      "position": 6,
+      "openInNewTab": false
+    }
+  ],
+  "appearance": {
+    "primaryColor": "#E53935",
+    "secondaryColor": "#F5B324",
+    "backgroundColor": "#121012",
+    "cardColor": "#1E181B",
+    "textColor": "#FFFFFF",
+    "secondaryTextColor": "#C2B4BA",
+    "borderColor": "rgba(255, 255, 255, 0.08)",
+    "cardRadius": "rounded-2xl",
+    "buttonStyle": "rounded-2xl"
+  },
+  "business": {
+    "address": "R. Marquês de Montalvão, 259 - Planalto, João Monlevade - MG, 35931-127",
+    "neighborhood": "Planalto",
+    "city": "João Monlevade",
+    "state": "MG",
+    "zip": "35931-127",
+    "phone": "(31) 99517-6904",
+    "whatsapp_number": "+5531995176904",
+    "whatsapp_url": "https://wa.me/5531995176904",
+    "whatsapp_message": "Olá! Gostaria de fazer um pedido na NEM LANCHES.",
+    "instagram_handle": "@nem_llanches",
+    "instagram_url": "https://www.instagram.com/nem_llanches/",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=R.+Marqu%C3%AAs+de+Montalv%C3%A3o%2C+259+-+Planalto%2C+Jo%C3%A3o+Monlevade+-+MG%2C+35931-127",
+    "reviews_url": "https://www.google.com/maps/search/?api=1&query=NEM+LANCHES+Joao+Monlevade",
+    "opening_hours": "Consulte nossos horários atualizados.",
+    "opening_hours_note": "Atendimento no local e entregas em João Monlevade. Confirme os horários do dia pelo WhatsApp.",
+    "price_range": "R$ 20–40 por pessoa",
+    "price_range_note": "Faixa média geral informada como referência pelo Google.",
+    "seo_title": "NEM LANCHES | Hambúrgueres e lanches em João Monlevade",
+    "seo_description": "Confira os canais oficiais da NEM LANCHES, acesse o cardápio, fale pelo WhatsApp e encontre nossa hamburgueria em João Monlevade."
+  }
+}
